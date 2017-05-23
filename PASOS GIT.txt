@@ -1,0 +1,30 @@
+
+$ git clone https://github.com/Jenifgar/practicalunes.git
+
+
+Usuario@HP-PC MINGW64 ~
+$ cd practicalunes
+
+Usuario@HP-PC MINGW64 ~/practicalunes (master)
+$ ls
+Q.txt
+
+Usuario@HP-PC MINGW64 ~/practicalunes (master)
+$ git status
+
+Usuario@HP-PC MINGW64 ~/practicalunes (master)
+$ git add Q.txt
+
+Usuario@HP-PC MINGW64 ~/practicalunes (master)
+$ git commit -m "HICE UN CAMBIO"
+
+Usuario@HP-PC MINGW64 ~/practicalunes (master)
+$ git push origin
+
+
+clave : Daniel29.
+
+
+
+
+
